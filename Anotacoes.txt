@@ -1,0 +1,53 @@
+1. criar uma classe abstrata somente com Id (classe abstrata não pode ser instânciada porém todo mundo que herdar, 
+herda tudo dela)
+
+2. criar uma classe que herda dessa classe abstrata - no caso classe EntidadeBase
+
+3. criar uma classe Serie
+
+4. criar um Enum, class enum Genero
+
+5. método construtor - recebe o Id/Genero/Titulo/Ano - na Class
+
+6. Implementar o ToString 
+
+7. Encapsulamento - retorna titulo/id do objeto
+
+8. Return Id - para exibir a listagem da serie
+
+9. Criar um repositório, um padrão de desenho, desenha a nossa interface com interface de repositório. Armazenar 
+os dados em algum lugar. interface IRepositorio 
+
+10. Classe SerieRepositorio : IRepositorio <Serie> - Essa classe implementa um IRepositorio de serie
+ 
+	-> Criar uma variável que será a lista séries. Onde contém todas as séries.
+	 -> implementar o método atualiza: listaSerie[id] = objeto;
+	 -> método exclui. Colocar na class Serie - private bool Excluido {get ; set;}. Criar série -> this.Excluido = false;
+	 criar um novo método public void Excluir()
+				this.Excluido = true;
+	listaSerie[id].Excluir();
+	-> método Insere. listaSerie.Add{objeto};
+	-> método List. return listaSerie;
+	-> método ProximoId(). return listaSerie.Count;
+	-> método retornaPorId. return listaSerie{Id}
+
+11. No Program. Declarar o repositório -> static SerieRepositorio repositorio = new SerieRepositorio(); 
+
+	Para listar séries:
+	private static void ListarSeries()
+		cw ("Listar séries")
+	var Lista = repositorio.Lista();
+
+	if (list.Count == 0)
+	{
+		Console.WriteLine("Nenhuma série cadastrada")
+		return;
+	}
+	foreach (var serie in lista)
+	{
+		Console.WriteLine("#ID {0}: - {1}", serie.retornaID(). serie.retornaTitulo());
+	}
+
+12.
+
+

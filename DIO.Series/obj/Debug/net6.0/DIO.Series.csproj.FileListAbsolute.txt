@@ -1,0 +1,15 @@
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+E:\Cadastro-Serie\Repositorio Projeto-Cadastro-Serie\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
